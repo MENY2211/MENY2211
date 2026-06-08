@@ -106,6 +106,6 @@ areas_de_interes = {
 └─────────────────────────────────────────┘
 ```
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MENY2211.MENY2211&left_color=black&right_color=green&left_text=Visitas)
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MENY2211.MENY2211&left_color=black&right_color=green&left_text=Visitas)
 </div>
